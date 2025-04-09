@@ -1,0 +1,23 @@
+# Source files
+components/
+hooks/
+utils.ts
+types.ts
+index.ts
+tsconfig.json
+rollup.config.js
+
+# Test files
+**/__tests__/
+**/*.test.ts
+**/*.test.tsx
+
+# Build files
+node_modules/
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
